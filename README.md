@@ -1,5 +1,5 @@
 # Photo Album
-A nice one page site to display photos.
+A nice one page site to display photos. (I DIDINT MAKE THIS)
 
 [Demo/Personal Album](https://c1200.js.org/photoalbum)
 
